@@ -45,4 +45,3 @@ Project with python and other tools
 
   That's the step by step for initial Settings
 
-
